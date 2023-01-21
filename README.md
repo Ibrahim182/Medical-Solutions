@@ -1,1 +1,3 @@
-<center>Medical Solutions</center>
+<p align="center">
+// Your content
+</p>
