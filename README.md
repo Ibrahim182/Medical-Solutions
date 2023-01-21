@@ -15,3 +15,6 @@
 
 # Second peoject $:-$
   ## Recommender System:
+    - Making a content based recommender system for some medicine.
+    - Using linear kernel in scikit-learn which faster than cosine similarity
+    - Use the `linear_kernel` from sklearn, which is faster than `cosine_similarity`
