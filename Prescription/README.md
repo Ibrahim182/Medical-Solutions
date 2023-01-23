@@ -10,4 +10,4 @@
    <img width=800 src="../images/line segmentation.jpg" alt="Material Bread logo">
    
     - The model got 79% train, 70% test and the validation data in the same range.
- 
+    - Another version soon...
